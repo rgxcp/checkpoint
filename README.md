@@ -1,4 +1,4 @@
-# Bash - Checkpoint
+# ⛳ Bash - Checkpoint
 **EN**: Automatically commit a git stages by incrementing `n + 1` the last commit message.
 
 **ID**: Komit git stages secara otomatis dengan menambahkan `n + 1` pesan komit terakhir.
